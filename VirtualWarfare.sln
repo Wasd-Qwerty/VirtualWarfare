@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{f50f2b47-3335-8f09-f10a-7a461622d93d}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HurricaneVR.Framework", "HurricaneVR.Framework.csproj", "{95e978b1-aaf3-8a26-168d-ccdcf59c772e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{eef66259-25ff-12ab-470c-aff8d70d9aba}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HurricaneVR.Editor", "HurricaneVR.Editor.csproj", "{165a9c1a-b313-13fd-a3eb-b00af189babb}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,6 +16,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{f50f2b47-3335-8f09-f10a-7a461622d93d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{f50f2b47-3335-8f09-f10a-7a461622d93d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95e978b1-aaf3-8a26-168d-ccdcf59c772e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95e978b1-aaf3-8a26-168d-ccdcf59c772e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{eef66259-25ff-12ab-470c-aff8d70d9aba}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{eef66259-25ff-12ab-470c-aff8d70d9aba}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165a9c1a-b313-13fd-a3eb-b00af189babb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165a9c1a-b313-13fd-a3eb-b00af189babb}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

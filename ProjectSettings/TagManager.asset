@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - projectile
+  - Weapon
+  - Enemy
+  - Ignore Ragdoll
+  - CompanionAI
+  - Metal
+  - Barrel
+  - Boss
+  - Concrete
   layers:
   - Default
   - TransparentFX
@@ -13,6 +22,8 @@ TagManager:
   - UI
   - 
   - 
+  - Player
+  - DynamicPose
   - 
   - 
   - 
@@ -23,10 +34,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Grabbable
+  - Hand
   - 
   - 
   - 
